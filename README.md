@@ -59,6 +59,7 @@ The data is provided in a \(.csv\) format. To make the data processing task easi
 ### Data Headers
 
 The data headers in the given \(.csv\) file are described in follwoing table.
+
 |**Sr. No**|**Variable**|**Description**|
 |:---------|:-----------|:--------------|
 |1|Id|Unique ID of each home sold|
